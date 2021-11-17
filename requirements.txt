@@ -1,0 +1,3 @@
+Flask==2.0.2
+huey==2.4.1
+gunicorn==20.1.0
