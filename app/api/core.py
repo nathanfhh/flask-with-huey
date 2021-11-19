@@ -1,4 +1,4 @@
-from app.API import core_api
+from app.api import core_api
 
 from flask import request
 
